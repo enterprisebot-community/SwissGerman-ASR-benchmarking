@@ -1,0 +1,8 @@
+Microsoft Performance Metrics:
+- Total Transcription Time: 10.90
+- Total Audio Time: 49.08
+- Average WER: 19.50%
+- Average MER: 18.08%
+- Average RTF: 23.79%
+- Total RTF: 22.21%
+- Hours Processed per Hour: 4.50

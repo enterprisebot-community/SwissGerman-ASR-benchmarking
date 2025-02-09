@@ -1,0 +1,8 @@
+Whisper Performance Metrics:
+- Total Transcription Time: 11.01
+- Total Audio Time: 49.03
+- Average WER: 29.86%
+- Average MER: 27.31%
+- Average RTF: 25.67%
+- Total RTF: 22.46%
+- Hours Processed per Hour: 4.45

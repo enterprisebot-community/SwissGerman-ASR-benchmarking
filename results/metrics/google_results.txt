@@ -1,0 +1,8 @@
+Google Performance Metrics:
+- Total Transcription Time: 40.59
+- Total Audio Time: 48.77
+- Average WER: 77.24%
+- Average MER: 74.07%
+- Average RTF: 102.38%
+- Total RTF: 83.23%
+- Hours Processed per Hour: 1.20
